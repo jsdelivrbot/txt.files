@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/JoeyGaffney/txt.files/master/num10.txt
+https://raw.githubusercontent.com/JoeyGaffney/txt.files/master/num5.txt
+https://raw.githubusercontent.com/JoeyGaffney/txt.files/master/numbers.txt
+https://raw.githubusercontent.com/JoeyGaffney/txt.files/master/num0.txt
